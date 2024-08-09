@@ -6,3 +6,4 @@ These examples are midterm or final projects showcasing problem analysis, writin
 - *ISP_midterm.pdf* : JS and Python audio programming examples.
 - *ML_final.pdf* : Python (Jupyter) program predicting the chance for survival on the Titanic (Kaggle challenge).
 - *NLP_midterm.pdf* : Python (Jupyter) natural language analysis to model podcast topics from transcripts.
+- *PwD_christmasy.pdf* : Python (Jupyter) data analysis of the "christmassyness" of podcast episods.
